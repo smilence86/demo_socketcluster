@@ -1,0 +1,10 @@
+{
+    "sk_im":{
+      "uri": "mongodb://username:host:port,host:port/dbname?replicaSet=mgset-number",
+      "host":"127.0.0.1",
+      "port":27017,
+      "db":"dbname",
+      "user":"",
+      "pwd":""
+    }
+}
