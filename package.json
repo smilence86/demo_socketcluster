@@ -38,7 +38,7 @@
         "scc-broker-client": "^6.1.0",
         "serve-static": "1.13.2",
         "socketcluster": "^16.0.1",
-        "socketcluster-client": "^14.2.1",
+        "socketcluster-client": "^14.3.2",
         "superagent": "^5.0.2"
     },
     "keywords": [
